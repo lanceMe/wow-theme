@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core
+module github.com/lanceMe/wow-theme/modules/wowchemy-core
 
 go 1.15
